@@ -1,2 +1,2 @@
-Aquesta és la branca 2
-Modificant des de la branca main
+Modificació des de la branca branch2
+
