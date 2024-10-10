@@ -1,1 +1,2 @@
 Aquesta és la branca 2
+Modificació des de la branca branch2
